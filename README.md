@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # CMOS
 
 CMOS (Complementary Metal-Oxide-Semiconductor) technology is the backbone of modern VLSI (Very-Large-Scale Integration) circuits.  
@@ -10,13 +10,13 @@ Key features:
 - Uses **both NMOS and PMOS transistors** in a complementary fashion.
 - Power dissipation is mainly **dynamic** (during switching).
 - Used in digital, analog, and mixed-signal designs.
-```
+
 
 ---
 
-### `Information/CMOS_Basics.md`
 
-```markdown
+
+
 # CMOS Basics
 
 ## Structure
@@ -33,13 +33,13 @@ Key features:
 ## Disadvantages
 - Performance reduces at very small geometries due to short-channel effects.
 - Leakage currents increase in deep nanometer nodes.
-```
+
 
 ---
 
-### `Information/Design_Flow.md`
 
-```markdown
+
+
 # CMOS Design Flow
 
 A typical CMOS design in Cadence follows these steps:
@@ -70,13 +70,13 @@ A typical CMOS design in Cadence follows these steps:
 
 7. **Fabrication Ready**
    - Generate GDSII file for chip manufacturing.
-```
+
 
 ---
 
 ### `Information/Applications.md`
 
-```markdown
+
 # Applications of CMOS
 
 1. **Digital Circuits**
@@ -95,5 +95,5 @@ A typical CMOS design in Cadence follows these steps:
 
 5. **Low-Power Devices**
    - Mobile phones, IoT devices, portable electronics.
-```
+
 
