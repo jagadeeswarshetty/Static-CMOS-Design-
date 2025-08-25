@@ -1,7 +1,6 @@
 
 
-
-
+```markdown
 # CMOS
 
 CMOS (Complementary Metal-Oxide-Semiconductor) technology is the backbone of modern VLSI (Very-Large-Scale Integration) circuits.  
@@ -98,7 +97,3 @@ A typical CMOS design in Cadence follows these steps:
    - Mobile phones, IoT devices, portable electronics.
 ```
 
----
-
-
-Do you also want me to **prepare a sample "schematic\_description.md" with detailed explanation + equations (like VTC, Noise Margin, Power formulas)** so it looks even more professional?
