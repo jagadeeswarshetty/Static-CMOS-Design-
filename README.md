@@ -20,6 +20,8 @@ Key features:
 # CMOS Basics
 
 ## Structure
+<img src="CMOS_INVERTER(cadence).png" alt="CMOS" width="600">
+
 - **NMOS**: Turns ON when gate voltage > threshold (Vth).
 - **PMOS**: Turns ON when gate voltage < threshold (Vth).
 - Together, they form **logic gates** (like inverter, NAND, NOR).
