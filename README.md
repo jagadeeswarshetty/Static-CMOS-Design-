@@ -76,7 +76,7 @@ A typical CMOS design in Cadence follows these steps:
 
 ---
 
-### `Information/Applications.md`
+
 
 
 # Applications of CMOS
