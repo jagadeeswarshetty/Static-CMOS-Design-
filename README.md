@@ -13,14 +13,22 @@ Key features:
 
 
 ---
+### CADENCE OPERATIONS
 
+<img src="CMOS_INVERTER.png" alt="CMOS_SCHEMATIC" width="600">
+<img src="CMOS_INVERTER_TB.png" alt="CMOS_TESTBENCH" width="600">
+<img src="CMOS_DELAY.png" alt="CMOS_DELAY" width="600">
+<img src="CMOS_DC_TRANSIENT.png" alt="CMOS_OUTPUTS" width="600">
+<img src="CMOS_LAYOUT_LVS.png" alt="CMOS_LAYOUT" width="600">
+<img src="CMOS_LVS_CHECK.png" alt="CMOS_Layout VS Schematic" width="600">
+<img src="CMOS_QUANTUS_CHECK.png" alt="CMOS_Quantus_check" width="600">
 
 
 
 # CMOS Basics
 
 ## Structure
-<img src="CMOS_ckt.png" alt="CMOS" width="600">
+<img src="CMOS_SCHEMATIC.png" alt="CMOS" width="600">
 
 - **NMOS**: Turns ON when gate voltage > threshold (Vth).
 - **PMOS**: Turns ON when gate voltage < threshold (Vth).
