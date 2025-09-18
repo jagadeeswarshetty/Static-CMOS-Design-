@@ -28,7 +28,7 @@ Key features:
 # CMOS Basics
 
 ## Structure
-<img src="CMOS_INVERTER.png" alt="CMOS" width="600">
+
 
 - **NMOS**: Turns ON when gate voltage > threshold (Vth).
 - **PMOS**: Turns ON when gate voltage < threshold (Vth).
